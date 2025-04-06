@@ -1,6 +1,8 @@
 # CppFPSNetworking
 Basic Networking Example using UE5 CPP
 
+Since I've been copyright claimed before for uploading an Unreal project on a public repository, I'll upload only the neccessary files. So If you just try to build this project, it might not work as is.
+
 ## How to build
 
 ### Method 1 (Recommended, a bit more complicated):
